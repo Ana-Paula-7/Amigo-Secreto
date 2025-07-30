@@ -1,5 +1,5 @@
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
-let participantes = ['joão', 'maria', 'pedro', 'ana', 'luiza', 'carlos', 'fernanda', 'roberto', 'patricia', 'jose', 'mariana', 'ricardo', 'laura', 'gustavo', 'camila', 'felipe', 'beatriz', 'renato', 'sandra', 'victor'];
+let participantes = [];
 
 function adicionarParticipante() {
   const nomeInput = document.getElementById("nome");
